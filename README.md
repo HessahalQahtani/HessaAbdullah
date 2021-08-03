@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HessaAbdullah
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data analyst by udacity.
+- 🌱 I’m currently learning Data analyst in udacity.
 - 📫 How to reach me : ihessa1996@gmail.com
 
 <!---
